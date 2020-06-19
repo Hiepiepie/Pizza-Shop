@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="57b63e4c-baf5-45d9-9482-bed62ecd8007" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prak4/CustomerPage/customer.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Prak4/CustomerPage/customer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prak4/Page.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Prak4/Page.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakerPage/baker.php" beforeDir="false" afterPath="$PROJECT_DIR$/BakerPage/baker.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlockTemplate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerPage/CustomerStatus.php" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerPage/CustomerStatus.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerPage/customer.php" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerPage/customer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DriverPage/driver.php" beforeDir="false" afterPath="$PROJECT_DIR$/DriverPage/driver.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderPage/Cart.js" beforeDir="false" afterPath="$PROJECT_DIR$/OrderPage/Cart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderPage/order.php" beforeDir="false" afterPath="$PROJECT_DIR$/OrderPage/order.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderPage/pizza.gif" beforeDir="false" afterPath="$PROJECT_DIR$/OrderPage/pizza.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Page.php" beforeDir="false" afterPath="$PROJECT_DIR$/Page.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.5.0-dist/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.5.0-dist/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.5.0-dist/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.5.0-dist/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.5.0-dist/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.5.0-dist/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.5.0-dist/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.5.0-dist/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.5.0-dist/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.5.0-dist/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.5.0-dist/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.5.0-dist/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.5.0-dist/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.5.0-dist/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.5.0-dist/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.5.0-dist/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.5.0-dist/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.5.0-dist/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.5.0-dist/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.5.0-dist/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../index.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1dBgMWRwZ20iZKQVj6rK7QHl75x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57b63e4c-baf5-45d9-9482-bed62ecd8007" name="Default Changelist" comment="" />
+      <created>1591903852265</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591903852265</updated>
+      <workItem from="1591903853483" duration="1470000" />
+      <workItem from="1592081270179" duration="32000" />
+      <workItem from="1592083209184" duration="3474000" />
+      <workItem from="1592089673990" duration="8420000" />
+      <workItem from="1592126977459" duration="25320000" />
+      <workItem from="1592160733707" duration="8000" />
+      <workItem from="1592161707638" duration="626000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="753" y="378" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592085886261">
+      <screen x="0" y="0" width="1962" height="1152" />
+    </state>
+    <state x="753" y="378" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1962.1152@0.0.1962.1152" timestamp="1592085886261" />
+    <state x="650" y="354" key="EditFileWatcherDialog" timestamp="1592086028548">
+      <screen x="0" y="0" width="1962" height="1152" />
+    </state>
+    <state x="650" y="354" key="EditFileWatcherDialog/0.0.1962.1152@0.0.1962.1152" timestamp="1592086028548" />
+    <state x="701" y="233" key="FileChooserDialogImpl" timestamp="1592160739873">
+      <screen x="0" y="0" width="1962" height="1152" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1591904450360" />
+    <state x="701" y="233" key="FileChooserDialogImpl/0.0.1962.1152@0.0.1962.1152" timestamp="1592160739873" />
+    <state x="490" y="221" key="SettingsEditor" timestamp="1592085906301">
+      <screen x="0" y="0" width="1962" height="1152" />
+    </state>
+    <state x="490" y="221" key="SettingsEditor/0.0.1962.1152@0.0.1962.1152" timestamp="1592085906301" />
+  </component>
+</project>

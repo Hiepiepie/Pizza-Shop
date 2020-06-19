@@ -1,0 +1,262 @@
+
+/*resizing element base on size of window*/
+@media screen {
+  body {
+    width: 100%;
+  }
+  img{
+    width: 100%;
+  }
+}
+
+ img {
+  -webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
+  -moz-animation: fadein 2s; /* Firefox < 16 */
+  -ms-animation: fadein 2s; /* Internet Explorer */
+  -o-animation: fadein 2s; /* Opera < 12.1 */
+  animation: fadein 2s;
+}
+header{
+  animation: 1s ease-out slideInFromBtm;
+}
+@keyframes slideInFromBtm {
+  0% {
+    transform: translateY(-100%);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+@keyframes fadein {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+/* Firefox < 16 */
+@-moz-keyframes fadein {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+/* Safari, Chrome and Opera > 12.1 */
+@-webkit-keyframes fadein {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+/* Internet Explorer */
+@-ms-keyframes fadein {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+/* Opera < 12.1 */
+@-o-keyframes fadein {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+body{
+  background: url("bg.jpg") no-repeat center center fixed ;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding: 50px;
+
+
+}
+@media screen and (min-device-width: 1440px){
+  .text-responsive {
+    font-size: 1vw;
+    text-align: center;
+    font-family: 'Helvetica Neue', sans-serif;
+  }
+  .text-responsive h2{
+    font-size: 2rem;
+    text-align: center;
+    font-family: 'Helvetica Neue', sans-serif;
+  }
+  .text-responsive h1{
+    font-size: 5rem;
+    text-align: center;
+    font-family: 'Helvetica Neue', sans-serif;
+  }
+}
+@media screen and (min-device-width: 1024px){
+  .text-responsive {
+    font-size: 1.5vw;
+    text-align: center;
+    font-family: 'Helvetica Neue', sans-serif;
+  }
+  .text-responsive h2{
+    font-size: 2rem;
+    text-align: center;
+    font-family: 'Helvetica Neue', sans-serif;
+  }
+  .text-responsive h1{
+    font-size: 5rem;
+    text-align: center;
+    font-family: 'Helvetica Neue', sans-serif;
+  }
+}
+@media screen and (min-device-width: 768px){
+  .text-responsive {
+    font-size: 1.7vw;
+    text-align: center;
+    font-family: 'Helvetica Neue', sans-serif;
+  }
+  .text-responsive h2{
+    font-size: 2rem;
+    text-align: center;
+    font-family: 'Helvetica Neue', sans-serif;
+  }
+  .text-responsive h1{
+    font-size: 5rem;
+    text-align: center;
+    font-family: 'Helvetica Neue', sans-serif;
+  }
+}
+@media screen and (max-device-width: 768px){
+  .text-responsive {
+    font-size: 3vw;
+    text-align: center;
+    font-family: 'Helvetica Neue', sans-serif;
+  }
+  .text-responsive h2{
+    font-size: 1rem;
+    text-align: center;
+    font-family: 'Helvetica Neue', sans-serif;
+  }
+  .text-responsive h1{
+    font-size: 5rem;
+    text-align: center;
+    font-family: 'Helvetica Neue', sans-serif;
+  }
+}
+.welcome{
+  font-size: 10rem;
+  text-align: center;
+  margin-top: 80px;
+  font-family: 'Helvetica Neue', sans-serif;
+}
+  .dropdown-menu {
+    right: auto !important;
+    left: 0 !important;
+  }
+
+
+
+
+/*hover effect, applied only to non-mobile device web-browser*/
+@media (hover: hover){ .hover {
+  overflow: hidden;
+  position: relative;
+  padding-bottom: 60%;
+}
+
+.hover-overlay {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 90;
+  transition: all 0.4s;
+}
+
+.hover img {
+  width: 100%;
+  position: relative;
+  top: 0;
+  left: 0;
+  transition: all 0.3s;
+}
+
+.hover-content {
+  position: relative;
+  z-index: 99;
+}
+
+
+/* pizza */
+.hover-1 img {
+  width: 105%;
+  position: relative;
+  top: 0;
+  left: -5%;
+  transition: all 0.3s;
+}
+
+.hover-1-content {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  z-index: 99;
+  transition: all 0.4s;
+}
+
+.hover-1 .hover-overlay {
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.hover-1-description {
+  transform: translateY(0.5rem);
+  transition: all 0.4s;
+  opacity: 0;
+}
+
+.hover-1:hover .hover-1-content {
+  bottom: 2rem;
+}
+
+.hover-1:hover .hover-1-description {
+  opacity: 1;
+  transform: none;
+}
+
+.hover-1:hover img {
+  left: 0;
+}
+
+.hover-1:hover .hover-overlay {
+  opacity: 0;
+}
+}
+/*end hover effect*/
+
+option{
+  background: burlywood;
+  color: whitesmoke;
+
+}
+select{
+  background: burlywood;
+}
+option:hover{
+  background: burlywood;
+  color: whitesmoke;
+}
+.cartCustomize {
+  background: burlywood;
+}
+#delete {
+  margin-top: 5px;
+}
+#deleteAll{
+  margin-top: 5px;
+}
+
+#alignBtn{
+  text-align:center
+}
+
+.navbar-toggler.in{
+  text-align: center;
+}
+.driverSection{
+  background: cornsilk ;
+}
+.bestelltnummer{
+  color: coral;
+}

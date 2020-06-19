@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6559348d-e748-4e79-b5be-28fc557fb379" name="Default Changelist" comment="fix bug praktikum 3">
+      <change beforePath="$PROJECT_DIR$/CustomerPage/customer.php" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerPage/customer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prak4/CustomerPage/customer.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Prak4/CustomerPage/customer.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../../.." value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1c0YWKcXF5zIH3hpsC12fNtrjCL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/DriverPage" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Studium\EWA\Trapp-Di1y-1\src\Praktikum\Prak2\DriverPage" />
+      <recent name="D:\Studium\EWA\Trapp-Di1y-1\src\Praktikum\Prak2\CustomerPage" />
+      <recent name="D:\Studium\EWA\Trapp-Di1y-1\src\Praktikum\Prak2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Studium\EWA\Trapp-Di1y-1\src\Praktikum\Prak2\Driver Page" />
+      <recent name="D:\Studium\EWA\Trapp-Di1y-1\src\Praktikum\Prak2\Customer Page" />
+      <recent name="D:\Studium\EWA\Trapp-Di1y-1\src\Praktikum\Prak2\Bäcker Page" />
+      <recent name="D:\Studium\EWA\Trapp-Di1y-1\src\Praktikum\Prak2\Order Page" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="order.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Prak2/Order Page/order.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.order.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6559348d-e748-4e79-b5be-28fc557fb379" name="Default Changelist" comment="" />
+      <created>1589667007781</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589667007781</updated>
+      <workItem from="1589667009968" duration="973000" />
+      <workItem from="1589740044522" duration="613000" />
+      <workItem from="1589751010901" duration="186000" />
+      <workItem from="1589751321832" duration="1226000" />
+      <workItem from="1589752607246" duration="239000" />
+      <workItem from="1589752968486" duration="714000" />
+      <workItem from="1589753824986" duration="3606000" />
+      <workItem from="1589824374996" duration="14503000" />
+      <workItem from="1589870952576" duration="7308000" />
+      <workItem from="1589899148926" duration="10517000" />
+      <workItem from="1590130957980" duration="671000" />
+      <workItem from="1590235576247" duration="1977000" />
+      <workItem from="1590241160459" duration="861000" />
+      <workItem from="1590252902624" duration="11528000" />
+      <workItem from="1590323906730" duration="2812000" />
+      <workItem from="1590343355225" duration="29000" />
+      <workItem from="1590469586795" duration="121000" />
+      <workItem from="1590688233254" duration="102000" />
+      <workItem from="1590777293264" duration="58000" />
+      <workItem from="1590856258202" duration="486000" />
+    </task>
+    <task id="LOCAL-00001" summary="minor changes">
+      <created>1589752658948</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589752658948</updated>
+    </task>
+    <task id="LOCAL-00002" summary="minor changes">
+      <created>1589756829700</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589756829700</updated>
+    </task>
+    <task id="LOCAL-00003" summary="praktikum2 fuer backer und customer">
+      <created>1589875553080</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589875553080</updated>
+    </task>
+    <task id="LOCAL-00004" summary="customer.php and driver funktionale finisch">
+      <created>1589909530684</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589909530684</updated>
+    </task>
+    <task id="LOCAL-00005" summary="minor change">
+      <created>1589909619714</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1589909619714</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update PHPdoc">
+      <created>1590131236439</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1590131236439</updated>
+    </task>
+    <task id="LOCAL-00007" summary="minor changes in driver site">
+      <created>1590239639373</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1590239639373</updated>
+    </task>
+    <task id="LOCAL-00008" summary="praktikum 3 init">
+      <created>1590241175391</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1590241175391</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Praktikum 3 Session added">
+      <created>1590254895170</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1590254895170</updated>
+    </task>
+    <task id="LOCAL-00010" summary="SQLi and Cross Site Scripting prevention">
+      <created>1590260096857</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1590260096857</updated>
+    </task>
+    <task id="LOCAL-00011" summary="SQLi and Cross Site Scripting prevention">
+      <created>1590262437015</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1590262437015</updated>
+    </task>
+    <task id="LOCAL-00012" summary="kundeStatus.php update">
+      <created>1590273060337</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1590273060337</updated>
+    </task>
+    <task id="LOCAL-00013" summary="kundeStatus.php update">
+      <created>1590273225434</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1590273225434</updated>
+    </task>
+    <task id="LOCAL-00014" summary="fix bug praktikum 3">
+      <created>1590856504181</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1590856504181</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="minor changes" />
+    <MESSAGE value="praktikum2 fuer backer und customer" />
+    <MESSAGE value="customer.php and driver funktionale finisch" />
+    <MESSAGE value="minor change" />
+    <MESSAGE value="update PHPdoc" />
+    <MESSAGE value="minor changes in driver site" />
+    <MESSAGE value="praktikum 3 init" />
+    <MESSAGE value="Praktikum 3 Session added" />
+    <MESSAGE value="SQLi and Cross Site Scripting prevention" />
+    <MESSAGE value="kundeStatus.php update" />
+    <MESSAGE value="fix bug praktikum 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix bug praktikum 3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="561" y="231" key="#CLI_Interpreters" timestamp="1589837701625">
+      <screen x="0" y="0" width="1962" height="1152" />
+    </state>
+    <state x="561" y="231" key="#CLI_Interpreters/0.0.1962.1152@0.0.1962.1152" timestamp="1589837701625" />
+    <state x="688" y="219" key="#PHP" timestamp="1589827855278">
+      <screen x="0" y="0" width="1962" height="1152" />
+    </state>
+    <state x="688" y="219" key="#PHP/0.0.1962.1152@0.0.1962.1152" timestamp="1589827855278" />
+    <state x="407" y="417" key="#SQL_Dialects" timestamp="1589826159456">
+      <screen x="0" y="0" width="1962" height="1152" />
+    </state>
+    <state x="407" y="417" key="#SQL_Dialects/0.0.1962.1152@0.0.1962.1152" timestamp="1589826159456" />
+    <state x="994" y="354" key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#method0" timestamp="1590259290073">
+      <screen x="0" y="0" width="1962" height="1152" />
+    </state>
+    <state x="994" y="354" key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#method0/0.0.1962.1152@0.0.1962.1152" timestamp="1590259290073" />
+    <state x="893" y="300" key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#method1" timestamp="1590260533399">
+      <screen x="0" y="0" width="1962" height="1152" />
+    </state>
+    <state x="893" y="300" key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#method1/0.0.1962.1152@0.0.1962.1152" timestamp="1590260533399" />
+    <state x="761" y="330" key="FileChooserDialogImpl" timestamp="1589837698061">
+      <screen x="0" y="0" width="1962" height="1152" />
+    </state>
+    <state x="761" y="330" key="FileChooserDialogImpl/0.0.1962.1152@0.0.1962.1152" timestamp="1589837698061" />
+    <state x="753" y="299" key="NewPhpClassDialog" timestamp="1590272250506">
+      <screen x="0" y="0" width="1962" height="1152" />
+    </state>
+    <state x="753" y="299" key="NewPhpClassDialog/0.0.1962.1152@0.0.1962.1152" timestamp="1590272250506" />
+    <state x="817" y="499" key="NewPhpFileDialog" timestamp="1589842760489">
+      <screen x="0" y="0" width="1962" height="1152" />
+    </state>
+    <state x="817" y="499" key="NewPhpFileDialog/0.0.1962.1152@0.0.1962.1152" timestamp="1589842760489" />
+    <state x="490" y="221" key="SettingsEditor" timestamp="1589837702155">
+      <screen x="0" y="0" width="1962" height="1152" />
+    </state>
+    <state x="490" y="221" key="SettingsEditor/0.0.1962.1152@0.0.1962.1152" timestamp="1589837702155" />
+    <state x="574" y="309" key="Vcs.Push.Dialog.v2" timestamp="1590856507132">
+      <screen x="0" y="0" width="1962" height="1152" />
+    </state>
+    <state x="574" y="309" key="Vcs.Push.Dialog.v2/0.0.1962.1152@0.0.1962.1152" timestamp="1590856507132" />
+    <state x="791" y="490" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589899510026">
+      <screen x="0" y="0" width="1962" height="1152" />
+    </state>
+    <state x="791" y="490" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1962.1152@0.0.1962.1152" timestamp="1589899510026" />
+    <state x="705" y="347" key="refactoring.ChangeSignatureDialog" timestamp="1589841173209">
+      <screen x="0" y="0" width="1962" height="1152" />
+    </state>
+    <state x="705" y="347" key="refactoring.ChangeSignatureDialog/0.0.1962.1152@0.0.1962.1152" timestamp="1589841173209" />
+    <state x="704" y="488" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1590241203296">
+      <screen x="0" y="0" width="1962" height="1152" />
+    </state>
+    <state x="704" y="488" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1962.1152@0.0.1962.1152" timestamp="1590241203296" />
+  </component>
+</project>

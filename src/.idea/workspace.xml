@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="320c563a-82ad-4893-b12c-546ccd1eb108" name="Default Changelist" comment="show notification when added to Cart">
+      <change beforePath="$PROJECT_DIR$/Praktikum/Prak5/DriverPage/driver.php" beforeDir="false" afterPath="$PROJECT_DIR$/Praktikum/Prak5/DriverPage/driver.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Praktikum/Prak5/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Praktikum/Prak5/Style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1dHfw2iMHpiSZcKOAS570NpuqWt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Studium\EWA\Trapp-Di1y-1\src\Praktikum\Prak5" />
+      <recent name="D:\Studium\EWA\Trapp-Di1y-1\src\Praktikum" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="320c563a-82ad-4893-b12c-546ccd1eb108" name="Default Changelist" comment="" />
+      <created>1592087174132</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592087174132</updated>
+      <workItem from="1592087176685" duration="1382000" />
+      <workItem from="1592089168052" duration="504000" />
+      <workItem from="1592162704914" duration="65000" />
+      <workItem from="1592222757048" duration="1782000" />
+      <workItem from="1592224702191" duration="3000" />
+      <workItem from="1592241447651" duration="45000" />
+      <workItem from="1592289288475" duration="19000" />
+      <workItem from="1592576159624" duration="85000" />
+    </task>
+    <task id="LOCAL-00001" summary="merge css.">
+      <created>1592162740005</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592162740005</updated>
+    </task>
+    <task id="LOCAL-00002" summary="show notification when added to Cart">
+      <created>1592224611617</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592224611617</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="merge css." />
+    <MESSAGE value="show notification when added to Cart" />
+    <option name="LAST_COMMIT_MESSAGE" value="show notification when added to Cart" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="762" y="331" key="FileChooserDialogImpl" timestamp="1592576241977">
+      <screen x="0" y="0" width="1962" height="1152" />
+    </state>
+    <state x="762" y="331" key="FileChooserDialogImpl/0.0.1962.1152@0.0.1962.1152" timestamp="1592576241977" />
+    <state x="574" y="309" key="Vcs.Push.Dialog.v2" timestamp="1592224651966">
+      <screen x="0" y="0" width="1962" height="1152" />
+    </state>
+    <state x="574" y="309" key="Vcs.Push.Dialog.v2/0.0.1962.1152@0.0.1962.1152" timestamp="1592224651966" />
+  </component>
+</project>

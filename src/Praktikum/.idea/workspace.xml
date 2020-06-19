@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e8bfbc0f-c23f-4a19-aee6-18d894cb1516" name="Default Changelist" comment="bäker und driver seite sind jetzt jede 5 sekunde automatisch refresh">
+      <change afterPath="$PROJECT_DIR$/Prak5/bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prak4/CustomerPage/customer.php" beforeDir="false" afterPath="$PROJECT_DIR$/Prak4/CustomerPage/customer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prak4/Page.php" beforeDir="false" afterPath="$PROJECT_DIR$/Prak4/Page.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prak5/BakerPage/baker.php" beforeDir="false" afterPath="$PROJECT_DIR$/Prak5/BakerPage/baker.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prak5/BlockTemplate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prak5/CustomerPage/CustomerStatus.php" beforeDir="false" afterPath="$PROJECT_DIR$/Prak5/CustomerPage/CustomerStatus.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prak5/CustomerPage/customer.php" beforeDir="false" afterPath="$PROJECT_DIR$/Prak5/CustomerPage/customer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prak5/DriverPage/driver.php" beforeDir="false" afterPath="$PROJECT_DIR$/Prak5/DriverPage/driver.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prak5/OrderPage/Cart.js" beforeDir="false" afterPath="$PROJECT_DIR$/Prak5/OrderPage/Cart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prak5/OrderPage/order.php" beforeDir="false" afterPath="$PROJECT_DIR$/Prak5/OrderPage/order.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prak5/OrderPage/pizza.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Prak5/OrderPage/pizza.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prak5/Page.php" beforeDir="false" afterPath="$PROJECT_DIR$/Prak5/Page.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prak5/bootstrap-4.5.0-dist/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prak5/bootstrap-4.5.0-dist/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prak5/bootstrap-4.5.0-dist/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prak5/bootstrap-4.5.0-dist/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prak5/bootstrap-4.5.0-dist/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prak5/bootstrap-4.5.0-dist/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prak5/bootstrap-4.5.0-dist/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prak5/bootstrap-4.5.0-dist/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prak5/bootstrap-4.5.0-dist/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prak5/bootstrap-4.5.0-dist/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prak5/bootstrap-4.5.0-dist/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prak5/bootstrap-4.5.0-dist/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prak5/bootstrap-4.5.0-dist/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prak5/bootstrap-4.5.0-dist/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prak5/bootstrap-4.5.0-dist/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prak5/bootstrap-4.5.0-dist/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prak5/bootstrap-4.5.0-dist/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prak5/bootstrap-4.5.0-dist/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prak5/bootstrap-4.5.0-dist/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prak5/bootstrap-4.5.0-dist/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../index.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1cdS12xdQDxusTHFTr8PgSDOoVS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8bfbc0f-c23f-4a19-aee6-18d894cb1516" name="Default Changelist" comment="" />
+      <created>1590856758254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590856758254</updated>
+      <workItem from="1590856761206" duration="83000" />
+      <workItem from="1590860461808" duration="549000" />
+      <workItem from="1591082514042" duration="611000" />
+      <workItem from="1592160742609" duration="27000" />
+      <workItem from="1592160770530" duration="14000" />
+    </task>
+    <task id="LOCAL-00001" summary="fixbug praktikum 3 , 4">
+      <created>1590856834439</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590856834439</updated>
+    </task>
+    <task id="LOCAL-00002" summary="bäker und driver seite sind jetzt jede 5 sekunde automatisch refresh">
+      <created>1590860998498</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590860998498</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fixbug praktikum 3 , 4" />
+    <MESSAGE value="bäker und driver seite sind jetzt jede 5 sekunde automatisch refresh" />
+    <option name="LAST_COMMIT_MESSAGE" value="bäker und driver seite sind jetzt jede 5 sekunde automatisch refresh" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="762" y="331" key="FileChooserDialogImpl" timestamp="1592160783093">
+      <screen x="0" y="0" width="1962" height="1152" />
+    </state>
+    <state x="762" y="331" key="FileChooserDialogImpl/0.0.1962.1152@0.0.1962.1152" timestamp="1592160783093" />
+    <state x="574" y="309" key="Vcs.Push.Dialog.v2" timestamp="1590861001685">
+      <screen x="0" y="0" width="1962" height="1152" />
+    </state>
+    <state x="574" y="309" key="Vcs.Push.Dialog.v2/0.0.1962.1152@0.0.1962.1152" timestamp="1590861001685" />
+  </component>
+</project>
